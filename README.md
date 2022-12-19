@@ -1,6 +1,6 @@
 # Election Machine
 
-**This is our school project for Server Programming course.**  
+**This is our school project for Server Programming course using Servlets and JSP.**  
   
 **Team: [Jenna Hakkarainen](https://github.com/jenhakk), [Amanda Karjalainen](https://github.com/amakarj), [Anna-Maria Palm](https://github.com/A-d-f)**
 
