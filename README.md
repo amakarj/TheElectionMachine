@@ -9,7 +9,7 @@ The task was to make an election machine using **Java**, **JSP**, **HTML** and *
 
 We ave used **Scrum** for the development process. **There were four features to choose from** and the idea was to implement at least one per course. 
 
-#### The features were:
+#### The features are:
 
  -  Admin can add, edit and remove candidates.
  -  Admin can add, edit and remove questions.
@@ -20,7 +20,7 @@ We ave used **Scrum** for the development process. **There were four features to
 Candidate can answer questions, and edit and delete answers. They can also see their profile and edit their personal information.  
 The voter can answer questions and browse candidates. After answering questions, they'll see three the most suitable candidates based on their answers.
 
-We started the project by deciding how the features would be implemented and what the site would look like. We designed the layout with **Figma**. Here is the link to [Figma](https://www.figma.com/file/OV6hQmNGV3PbAVEQjBtPgV/Election-Machine-Frontpage?node-id=0%3A1).
+We started the project by deciding how the features would be implemented and what the site would look like. We designed the layout with [**Figma**](https://www.figma.com/file/OV6hQmNGV3PbAVEQjBtPgV/Election-Machine-Frontpage?node-id=0%3A1).
 
 ## End users view
 
